@@ -1,0 +1,22 @@
+{
+  "name": "insure-landing-page-challenge",
+  "version": "1.0.0",
+  "description": "Frontend Mentor challenge. Insure landing page.",
+  "scripts": {
+    "start": "live-server"
+  },
+  "keywords": [
+    "frontend",
+    "mentor",
+    "challenge",
+    "html",
+    "css",
+    "landing",
+    "page"
+  ],
+  "author": "Jesus Espino <jespino860@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
