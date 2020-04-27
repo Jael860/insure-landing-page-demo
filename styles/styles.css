@@ -391,6 +391,7 @@ body {
     bottom: 0;
     position: absolute;
     right: 0;
+    width: 100%;
   }
   #mobile-navigation--plans {
     border: var(--very-light-gray) solid 1px;
